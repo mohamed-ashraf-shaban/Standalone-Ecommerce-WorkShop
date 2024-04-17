@@ -1,1 +1,1 @@
-# Standalone-Ecommerce-WorkShop
+# Standalone-Ecommerce-Workshop
